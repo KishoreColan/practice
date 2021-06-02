@@ -12,7 +12,7 @@
 
 	<div class="content-wrapper">
 
-
+<h1>This tha Main Page</h1>
 		@yield('content')
 
 	</div>
