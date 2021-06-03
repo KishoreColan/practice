@@ -7,6 +7,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">
+                pradeep
                     {{ __('Dashboard') }}
                     <a href="{{ url('/about') }}" class="text-sm text-gray-700 underline float-right">About us</a>
                 </div>
