@@ -9,6 +9,7 @@
                 <div class="card-header">
                     {{ __('Dashboard') }}
                     <a href="{{ url('/about') }}" class="text-sm text-gray-700 underline float-right">About us and about the world</a>
+                    <div><b>Vijay</b></div>
                 </div>
                 <h1>Testing Changes</h1>
                 <div class="card-body">
