@@ -10,7 +10,7 @@
                     {{ __('Dashboard') }}
 
 		    <a href="{{ url('/about') }}" class="text-sm text-gray-700 underline float-right">About us</a>
-                    <div><b>Vijay</b></div>
+                    <div><b>Kishore</b></div>
 
                </div>
                 <h1>Testing Changes</h1>
